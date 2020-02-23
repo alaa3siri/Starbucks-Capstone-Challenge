@@ -1,11 +1,10 @@
-# Starbucks Capstone Challenge
+# Starbucks Dataset
 Project in Data Scientist Nanodegree of Udacity
 
 
 ## Overview 
 
-Starbucks Capstone it is a project for Data Scientist Nanodegree in Udacity. The dataset provided from program that creates the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.We will do recommendation engine that recommends Starbucks which offers should be sent to a particular customer.
-
+Starbucks data it is a project for Data Scientist Nanodegree in Udacity. The dataset about how people make purchasing decisions and how those decisions are influenced by promotional offers.We will do recommendation engine that recommends Starbucks which offers should be sent to a particular customer.
 
 ##Problem Statement
 Not all users receive the same offer so we want solve this by answer this tow questions : Which offer should be sent to a particular customer to let the customer buy more? Which demographic groups respond best to which offer type?
